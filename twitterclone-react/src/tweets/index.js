@@ -1,7 +1,8 @@
-import {ActionButton, Tweet, TweetsList} from './components'
+import {ActionButton, Tweet, TweetsList, TweetsComponent} from './components'
 
 export {
     ActionButton, 
     Tweet,
-    TweetsList
+    TweetsList,
+    TweetsComponent
 }
